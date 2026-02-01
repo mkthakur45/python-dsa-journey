@@ -37,3 +37,16 @@ This repository documents my **Python + DSA learning journey from scratch**.
 
 👨‍💻 **Learner:** Manish Kumar Thakur  
 📌 **Journey Type:** Beginner → Pro
+
+
+## Day 2 – Variables, Input & Calculations (Python)
+
+Topics covered:
+- Variables and data types
+- Taking input from user
+- Basic arithmetic calculations
+
+Files:
+- Day2_variables.py
+- Day2_inputFromUser.py
+- Day2_calculations.py
