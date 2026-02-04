@@ -1,52 +1,75 @@
-# 🐍 Python DSA Journey
+# Python DSA Journey 🚀
 
-This repository documents my **Python + DSA learning journey from scratch**.
+This repository documents my daily Python + DSA learning journey from basics to advanced.
+I solve problems daily and upload clean, beginner-friendly code.
 
 ---
 
-## 📅 Day 1 – Basics (Completed ✅)
+## 📅 Day 1: Basics
+- print statements
+- comments
+- simple pattern printing
 
-### Topics Covered:
-- print() function
-- Single-line comments
-- Multi-line comments
-- Multiple print statements
-- Basic pattern printing
+---
 
-### Files:
-- q1_hello.py
-- q2_multiple_print.py
-- q3_newline_tab.py
-- q4_comments.py
-- q5_pattern.py
+## 📅 Day 2: Variables & Calculations
+- variables (int, float, string, boolean)
+- basic calculations
+- simple outputs
+
+---
+
+## 📅 Day 3: User Input & Type Conversion
+- input() function
+- type casting (int, float)
+- simple user-based programs
+
+---
+
+## 📅 Day 4: Conditional Statements
+**Concepts Covered:**
+- if
+- if-else
+- if-elif-else
+- comparison operators
+
+**Programs:**
+- check even or odd
+- check positive / negative number
+- student pass or fail
+- largest of two numbers
+
+📁 Folder: `Day4_Conditionals`
+
+---
+
+## 📅 Day 5: Loops (for & while)
+**Concepts Covered:**
+- for loop
+- while loop
+- range()
+- loop-based problems
+
+**Programs:**
+- print numbers 1 to 10
+- sum of first n numbers
+- multiplication table
+- factorial using loop
+
+📁 Folder: `Day5_Loops`
 
 ---
 
 ## 🎯 Goal
-- Learn Python from zero
-- Build strong DSA fundamentals
-- Maintain daily GitHub consistency
+- Become strong in Python
+- Master DSA step by step
+- Build a solid GitHub profile
+- Crack good placement after BCA
 
 ---
 
-## 🚀 Progress
-- Day 1 ✅
-- Day 2 ⏳ (Coming soon)
-
----
-
-👨‍💻 **Learner:** Manish Kumar Thakur  
-📌 **Journey Type:** Beginner → Pro
-
-
-## Day 2 – Variables, Input & Calculations (Python)
-
-Topics covered:
-- Variables and data types
-- Taking input from user
-- Basic arithmetic calculations
-
-Files:
-- Day2_variables.py
+## 🧑‍💻 Author
+**Manish Kumar Thakur**  
+BCA Student | Python & DSA Learner
 - Day2_inputFromUser.py
 - Day2_calculations.py
